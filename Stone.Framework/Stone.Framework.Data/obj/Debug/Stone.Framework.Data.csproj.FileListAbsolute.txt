@@ -1,0 +1,7 @@
+D:\VSTest\Stone.Framework\Stone.Framework.Data\obj\Debug\Stone.Framework.Data.csprojResolveAssemblyReference.cache
+D:\VSTest\Stone.Framework\Stone.Framework.Data\bin\Debug\Stone.Framework.Data.dll
+D:\VSTest\Stone.Framework\Stone.Framework.Data\bin\Debug\Stone.Framework.Data.pdb
+D:\VSTest\Stone.Framework\Stone.Framework.Data\obj\Debug\Stone.Framework.Data.dll
+D:\VSTest\Stone.Framework\Stone.Framework.Data\obj\Debug\Stone.Framework.Data.pdb
+D:\VSTest\Stone.Framework\Stone.Framework.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\VSTest\Stone.Framework\Stone.Framework.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll

@@ -1,0 +1,9 @@
+D:\VSTest\Stone.Framework\StoneTest\bin\Debug\StoneTest.exe
+D:\VSTest\Stone.Framework\StoneTest\bin\Debug\StoneTest.pdb
+D:\VSTest\Stone.Framework\StoneTest\bin\Debug\Stone.Framework.Data.dll
+D:\VSTest\Stone.Framework\StoneTest\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\VSTest\Stone.Framework\StoneTest\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\VSTest\Stone.Framework\StoneTest\bin\Debug\Stone.Framework.Data.pdb
+D:\VSTest\Stone.Framework\StoneTest\obj\Debug\StoneTest.csprojResolveAssemblyReference.cache
+D:\VSTest\Stone.Framework\StoneTest\obj\Debug\StoneTest.exe
+D:\VSTest\Stone.Framework\StoneTest\obj\Debug\StoneTest.pdb
